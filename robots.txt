@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://plesseartsmartiaux.com/sitemap.xml
+Sitemap: https://plesseartmartiaux.com/sitemap.xml
